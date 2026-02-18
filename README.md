@@ -1,16 +1,66 @@
-# React + Vite
+# Enquiry Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Enquiry Manager is a simple React CRUD application that allows users to submit, update, and delete enquiry records. It includes form validation, duplicate entry checks, and real-time notifications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Add new enquiry data
+- Update existing records
+- Delete records
+- Prevent duplicate username or email entries
+- Toast notifications for actions
+- Responsive UI using Bootstrap
+- Clean and beginner-friendly React logic
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (useState Hook)
+- Bootstrap
+- React-Bootstrap
+- React-Toastify
+
+---
+## 📋 Functionality Overview
+
+- **Save Mode:** Adds new user enquiry
+- **Update Mode:** Updates selected record
+- **Delete:** Removes enquiry from list
+- **Duplicate Check:** Prevents same name or email
+- **Toast Messages:** Shows success & error alerts
+
+## 📂 Project Structure
+
+src/
+├── App.js
+├── index.js
+└── main.jsx
+
+---
+
+## 📂 Project Structure
+
+src/
+├── App.js
+├── index.js
+└── main.jsx
+
+## use case
+
+This project is ideal for:
+
+React beginners
+
+CRUD practice
+
+Portfolio demonstration
+
+Interview projects
+
+## Author
+
+Arooba Dilshad
+Frontend React Developer
