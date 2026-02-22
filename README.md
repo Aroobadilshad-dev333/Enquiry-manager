@@ -4,7 +4,7 @@ Enquiry Manager is a simple React CRUD application that allows users to submit, 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add new enquiry data
 - Update existing records
@@ -16,7 +16,7 @@ Enquiry Manager is a simple React CRUD application that allows users to submit, 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - React (useState Hook)
 - Bootstrap
@@ -24,7 +24,7 @@ Enquiry Manager is a simple React CRUD application that allows users to submit, 
 - React-Toastify
 
 ---
-## 📋 Functionality Overview
+##  Functionality Overview
 
 - **Save Mode:** Adds new user enquiry
 - **Update Mode:** Updates selected record
@@ -32,7 +32,7 @@ Enquiry Manager is a simple React CRUD application that allows users to submit, 
 - **Duplicate Check:** Prevents same name or email
 - **Toast Messages:** Shows success & error alerts
 
-## 📂 Project Structure
+##  Project Structure
 
 src/
 ├── App.js
@@ -41,7 +41,7 @@ src/
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 src/
 ├── App.js
